@@ -1,0 +1,19 @@
+.wishlist {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f38181;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.wishlist h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.wishlist p {
+    margin: 10px 0;
+    font-size: 16px;
+}

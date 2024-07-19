@@ -1,0 +1,77 @@
+.login-container {
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ac9e9e;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    background-color: #fff;
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.login-underline {
+    height: 2px;
+    background-color: #333;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.login-inputs .login-input {
+    width: 400px;
+    margin-bottom: 15px;
+    padding: 5px 0px;
+}
+
+.login-inputs .login-input label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.login-inputs .login-input input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.forgot-password {
+    text-align: baseline;
+    margin-bottom: 20px;
+}
+
+.forgot-password span {
+    color: #007BFF;
+    cursor: pointer;
+}
+
+.login-submit-container {
+    text-align: center;
+}
+
+.login-submit {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-toggle-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login-toggle {
+    color: #007BFF;
+    cursor: pointer;
+}
